@@ -1,4 +1,4 @@
-# 🌐 Ifti's Web Journey# 🌐 Ifti's Web Journey
+9# 🌐 Ifti's Web Journey# 🌐 Ifti's Web Journey
 
 Welcome to my web development journey! This repository is a collection of my hands-on projects as I learn and build using HTML, CSS, JavaScript, and popular frameworks like React and Next.js. Every project here is focused on learning by doing — from basics to full-stack applications.
 
@@ -9,6 +9,7 @@ Welcome to my web development journey! This repository is a collection of my han
 | # | Project | Description |
 |---|---------|-------------|
 | 1 | [Basic Calculator](./basic-calculator) | A simple calculator using HTML, CSS, and JavaScript |
+| 2 | [Penguin Face](./penguin) | A smiling penguin using HTML, CSS |
 
 ---
 
