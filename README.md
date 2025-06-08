@@ -1,4 +1,4 @@
-9# 🌐 Ifti's Web Journey# 🌐 Ifti's Web Journey
+🌐 Ifti's Web Journey# 🌐 
 
 Welcome to my web development journey! This repository is a collection of my hands-on projects as I learn and build using HTML, CSS, JavaScript, and popular frameworks like React and Next.js. Every project here is focused on learning by doing — from basics to full-stack applications.
 
@@ -33,8 +33,8 @@ Stay tuned & feel free to fork or contribute if you’re learning too!
 
 ## 🤝 Let's Connect
 
-- 📧 Email: your-email@example.com
-- 🧠 Portfolio (coming soon)
+- 📧 Email: iftimohammed2k2@gmail.com 
+- 🧠 Portfolio (Provided)
 
 ---
 
