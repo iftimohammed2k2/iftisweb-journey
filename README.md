@@ -9,8 +9,9 @@ Welcome to my web development journey! This repository is a collection of my han
 | # | Project | Description |
 |---|---------|-------------|
 | 1 | [Basic Calculator](./basic-calculator) | A simple calculator using HTML, CSS, and JavaScript |
-| 2 | [Penguin Face](./penguin) | A smiling penguin using HTML, CSS |
-| 3 | [Personal Portfolio](./personal-portfolio) | A simple personal portfolio using HTML, CSS, and JavaScript |
+| 2 | [Ferris Wheel](./ferriswheel) | A ferris wheel using HTML, CSS, and JavaScript |
+| 3 | [Penguin Face](./penguin) | A smiling penguin using HTML, CSS |
+| 4 | [Personal Portfolio](./personal-portfolio) | A simple personal portfolio using HTML, CSS, and JavaScript |
 ---
 
 ## 📌 Skills Covered
