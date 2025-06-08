@@ -44,11 +44,3 @@ Stay tuned & feel free to fork or contribute if you’re learning too!
 
 ---
 
-## 🤝 Let's Connect
-
-- 📧 Email: your-email@example.com
-- 🧠 Portfolio (coming soon)
-
----
-
-> “Start where you are. Use what you have. Do what you can.” – Arthur Ashe
