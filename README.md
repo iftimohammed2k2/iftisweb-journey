@@ -12,8 +12,8 @@ Welcome to my web development journey! This repository is a collection of my han
 | 2 | [Ferris Wheel](./ferriswheel) | A ferris wheel using HTML, CSS, and JavaScript |
 | 3 | [Penguin Face](./penguin) | A smiling penguin using HTML, CSS |
 | 4 | [Personal Portfolio](./personal-portfolio) | A simple personal portfolio using HTML, CSS, and JavaScript |
-| 5 | #piano](./piano) | A simple piano using HTML, CSS, and JavaScript |
-| 6 | #skylines](./skyline) | A simple city skyline using HTML, CSS, and JavaScript |
+| 5 | [#piano](./piano) | A simple piano using HTML, CSS, and JavaScript |
+| 6 | [#skylines](./skylines) | A simple city skyline using HTML, CSS, and JavaScript |
 | 7 | [Magazine](./magazine) | A beautiful magazine using HTML, CSS, and JavaScript |
 ---
 
