@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ifti Mohammed Muntakim | Portfolio</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script defer src="script.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js" defer></script>
+</head>
+<body>
+  <div id="particles-js"></div>
+  <!-- rest of your content -->
+  <!-- Particle background container -->
+  <div id="particles-js"></div>
+
+  <!-- Header with navigation -->
+  <header>
+    <nav class="navbar container">
+      <!-- Left side is blank, no logo text -->
+      <div></div>
+
+      <ul class="nav-links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+
+      <div class="hamburger" aria-label="Toggle menu" tabindex="0">
+        &#9776;
+      </div>
+
+      <button class="toggle-theme" aria-label="Toggle dark mode" title="Toggle Dark Mode">🌓</button>
+    </nav>
+  </header>
+
+  <main class="container">
+    <!-- Hero Section -->
+    <section class="hero" id="about">
+      <h1>👨‍💻 Ifti Mohammed Muntakim</h1>
+      <p class="typewriter"></p>
+      <p>
+        Junior web developer and frontend enthusiast based in Chittagong, Bangladesh.<br />
+        Currently studying Bachelor in EEE (3rd year) at International Islamic University Chittagong.<br />
+        Passionate about clean code, fast UI, and powerful backends.
+      </p>
+    </section>
+
+    <!-- Skills -->
+    <section id="skills">
+      <h2>🛠️ Skills</h2>
+      <ul class="skills-list">
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>React</li>
+        <li>Java</li>
+        <li>PHP</li>
+        <li>C#</li>
+        <li>Python</li>
+        <li>Cybersecurity Fundamentals</li>
+      </ul>
+    </section>
+
+    <!-- Projects with filters -->
+    <section id="projects">
+      <h2>🚀 Projects</h2>
+
+      <!-- Filter buttons -->
+      <div class="filters">
+        <button data-filter="all" class="active">All</button>
+        <button data-filter="frontend">Frontend</button>
+        <button data-filter="backend">Backend</button>
+        <button data-filter="cybersecurity">Cybersecurity</button>
+        <button data-filter="desktop">Desktop Apps</button>
+        <button data-filter="automation">Automation</button>
+      </div>
+
+      <!-- Project Cards -->
+      <div class="projects-grid">
+
+        <div class="project-card" data-category="frontend">
+          <h3>🎨 PixelCraft <span>— Responsive Web Design Studio</span></h3>
+          <ul>
+            <li>Built responsive web pages using HTML5 & CSS3</li>
+            <li>Practiced mobile-first design and Flexbox</li>
+          </ul>
+          <a href="https://github.com/iftimohammed2k2/iftisweb-journey" target="_blank" rel="noopener noreferrer">View Project →</a>
+        </div>
+
+        <div class="project-card" data-category="frontend">
+          <h3>⚛️ ReactForge <span>— Component-Based UI Engine</span></h3>
+          <ul>
+            <li>Developed dynamic UI with React.js and JSX</li>
+            <li>Used state management, hooks, routing</li>
+          </ul>
+          <a href="https://github.com/iftimohammed2k2/iftisreact-journey" target="_blank" rel="noopener noreferrer">View Project →</a>
+        </div>
+
+        <div class="project-card" data-category="backend">
+          <h3>🐘 PHPVault <span>— Backend Journey with PHP</span></h3>
+          <ul>
+            <li>Built login systems and form handling in PHP</li>
+            <li>Explored server-side logic and validation</li>
+          </ul>
+          <a href="https://github.com/iftimohammed2k2/iftisphp-journey" target="_blank" rel="noopener noreferrer">View Project →</a>
+        </div>
+
+        <div class="project-card" data-category="cybersecurity">
+          <h3>🛡️ CyberNest <span>— My Cybersecurity Vault</span></h3>
+          <ul>
+            <li>Explored ethical hacking & OWASP basics</li>
+            <li>Studied secure coding, encryption, and CTFs</li>
+          </ul>
+          <a href="https://github.com/iftimohammed2k2/cybersec-journey" target="_blank" rel="noopener noreferrer">View Project →</a>
+        </div>
+
+        <div class="project-card" data-category="desktop">
+          <h3>⚙️ SharpCode <span>— Building with C#</span></h3>
+          <ul>
+            <li>Learned basics of OOP and WinForms</li>
+            <li>Made small desktop tools using Visual Studio</li>
+          </ul>
+          <a href="https://github.com/iftimohammed2k2/csharp-journey" target="_blank" rel="noopener noreferrer">View Project →</a>
+        </div>
+
+        <div class="project-card" data-category="automation">
+          <h3>🐍 PyCore <span>— Automations & Logic with Python</span></h3>
+          <ul>
+            <li>Automated basic scripts and tools using Python</li>
+            <li>Explored data types, functions, and small apps</li>
+          </ul>
+          <a href="https://github.com/iftimohammed2k2" target="_blank" rel="noopener noreferrer">View Projects →</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+      <h2>📬 Contact</h2>
+      <p>Email: <a href="mailto:iftimohammed2k2@gmail.com">iftimohammed2k2@gmail.com</a></p>
+      <p>GitHub: <a href="https://github.com/iftimohammed2k2" target="_blank" rel="noopener noreferrer">github.com/iftimohammed2k2</a></p>
+      <p>LinkedIn: <a href="https://linkedin.com/in/iftimohammed2k2" target="_blank" rel="noopener noreferrer">linkedin.com/in/iftimohammed2k2</a></p>
+    </section>
+  </main>
+
+  <!-- CLI Easter Egg Modal -->
+  <div id="cli-modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="cli-modal-title">
+    <div class="modal-content">
+      <button class="modal-close" aria-label="Close CLI modal">&times;</button>
+      <h3 id="cli-modal-title">Terminal - Enter commands</h3>
+      <div class="cli-output" id="cli-output" tabindex="0"></div>
+      <input type="text" id="cli-input" aria-label="CLI command input" autocomplete="off" spellcheck="false" />
+    </div>
+  </div>
+
+  <!-- Scroll to Top Button -->
+  <button id="scroll-top" aria-label="Scroll to top">⬆️</button>
+
+  <footer>
+    <p>© 2025 Ifti Mohammed Muntakim — All rights reserved.</p>
+  </footer>
+<script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
+</body>
+</html>
